@@ -7,3 +7,4 @@ mini tool for drawing a neural network graph.
 
 3.>>> add  Graphviz code ;dot -Tpng -O file.txt
 
+4:>>> todo  https://www.quora.com/What-tools-are-good-for-drawing-neural-network-architecture-diagrams
